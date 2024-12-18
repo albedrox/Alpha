@@ -1,0 +1,255 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+.div-1{
+    background-image: url(https://img.freepik.com/free-photo/anime-moon-landscape_23-2151645935.jpg?t=st=1724941244~exp=1724944844~hmac=b6db6b8918da6f4bba96166169ae4cdbf296c54b6b7e352c01c3e527a9b82a68&w=900);
+  height: 1200px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 0;
+}
+
+.cen-1{ 
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.p1{
+    backdrop-filter: blur(10px);
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+    padding: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 20px;
+}
+
+.b1{
+    appearance: auto;
+    background-color: grey;
+    color: white;
+    border: none;
+    font-family: "Poppins", sans-serif;
+    border-radius: 15px;
+    cursor: pointer;
+    padding: 15px;
+    transition: transform .2s;
+}
+
+
+.b1:hover{
+    appearance: auto;
+    transform: scale(1.1);
+    background-color: rgb(69,69,69);
+}
+
+
+
+.pg-1{
+    background-color: white;
+    height: 450px;
+    text-align: center;
+}
+
+.p2{
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 90px;
+}
+
+.p-d1{
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+
+.p3{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    transition: transform 0.1s;
+}
+
+.p3:hover{
+    transform: scale(1.05);
+}
+
+.b2{
+    background-color: grey;
+    color: white;
+    border: none;
+    font-family: "Poppins", sans-serif;
+    border-radius: 15px;
+    cursor: pointer;
+    padding: 15px;
+    transition: transform .2s;
+}
+
+
+.b2:hover{
+    transform: scale(1.1);
+    background-color: rgb(69, 69, 69);
+}
+
+
+
+
+
+
+
+.div-2{
+    background-image: url(https://img.freepik.com/free-photo/cartoon-landscape-arid-desolated-nature_23-2151797539.jpg?t=st=1724941445~exp=1724945045~hmac=0f87987d03325612c862123064ae9eea48b9eea4a6d7b743f01efe311847cfcc&w=900);
+  height: 1200px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 0;
+
+}
+
+
+
+
+
+
+
+
+.div-3{
+    background-image: url(https://img.freepik.com/free-photo/nature-landscape-with-cartoon-desert-dry-nature_23-2151797460.jpg?t=st=1724941420~exp=1724945020~hmac=463b3a500a22ab8138e519bb83d5a24b69d4211e6e6819a5958fa408c650265b&w=900);
+  height: 1200px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 0;
+
+}
+
+
+
+
+
+.div-4{
+    background-image: url(https://img.freepik.com/free-photo/anime-moon-landscape_23-2151645934.jpg?t=st=1724941470~exp=1724945070~hmac=49bdfab1f3242538d91bda58b0ba56808e96344c2693eef9cbf438662fa2455f&w=900);
+  height: 1200px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 0;
+
+}
+
+
+
+
+
+.div-5{
+    background-image: url(https://img.freepik.com/free-photo/digital-art-beautiful-mountains_23-2151123793.jpg?t=st=1724941525~exp=1724945125~hmac=7aa3c91e243677e575cab3f82badf471eae00ea1c8101e6bfce695462b7e2b9c&w=900);
+  height: 1200px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 0;
+
+}
+
+
+
+
+
+
+.div-6{
+    background-image: url(https://img.freepik.com/free-photo/3d-fantasy-scene_23-2151128016.jpg?t=st=1724941637~exp=1724945237~hmac=59aaa11dcc84e5fead5addb91169b37eea7764c41efb53aa2e038880a90aa695&w=900);
+  height: 1000px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 0;
+
+}
+
+
+.pg-2{
+    background-color: white;
+    height: 250px;
+    text-align: center;
+}
+
+
+
+
+
+
+.top{
+    position: sticky;
+    bottom: 20px;
+    background-color: grey;
+    color: white;
+    border: none;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 100px;
+    transition: transform 0.2s;
+}
+
+.top:hover{
+    transform: scale(1.1);
+    background-color: rgb(69, 69, 69);
+}
+
+
+
+
+@media screen and (max-width:600px) {
+    button {
+        -webkit-tap-highlight-color: transparent;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    }
+
+    .b1,.b2:after{ 
+        background-color: grey;
+        color: white;
+        border: none;
+        font-family: "Poppins", sans-serif;
+        border-radius: 15px;
+        cursor: pointer;
+        padding: 15px;
+
+    }
+}
